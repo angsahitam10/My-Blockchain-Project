@@ -102,7 +102,3 @@ This is my participation at past blockchain project
 ### 25. Multiple  
 - **Role:** Node Operator 
 - **Verification Link:** [Multiple](https://www.app.multiple.cc/#/dataPanel)
-
-### 26. Multiple  
-- **Role:** Node Operator 
-- **Verification Link:** [Multiple](https://www.app.multiple.cc/#/dataPanel)
